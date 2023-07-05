@@ -1,4 +1,33 @@
-### Hi there 👋
+<h1>Hi I'm JIRAYUT.</h1>
+<iframe src="https://giphy.com/embed/l4Ep2BJHMEmsHYdwY" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p>
+    <a href="https://twitter.com/jry_xx99">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+    </a> 
+    <a href="https://www.instagram.com/_jirayut/">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    </a> 
+    <a href="https://medium.com/@jirayutroodprayun">
+        <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+    </a>
+</p>
+```yaml
+Name: Jirayut Roodprayun
+Location: Bangkok, Thailand
+Job: Freelacer
+Education: ["Bachelor's in Automotive Engineering"]
+University: Technology Innovation Institute
+Past experiences: 
+  - ["Mechenical Design Trainee", "Vehicle Extension", "Thailand", "2021"]
+  - ["Junior Automation Engineer", "PLC,Control System", "Thailand", "2022"]
+  - ["Freelance Firmware developer", "Microcntroller,STM32,Arduino,Rasp,Texas Insrutment", "Thailand", "2019-Now"]
+
+Currently_learning: ["HTML", "CSS", "JavaScript", "React", "Node.JS", "API"]
+Hobbies: ["Drink", "Cinema", "Music", "IoT", "Programming"]
+```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 <!--
 **JIRAYUTRPY/JIRAYUTRPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
