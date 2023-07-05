@@ -1,6 +1,8 @@
 <h1>Hi I'm JIRAYUT.</h1>
 
-![](https://giphy.com/embed/l4Ep2BJHMEmsHYdwY)
+<picture>
+    <img src="https://giphy.com/embed/l4Ep2BJHMEmsHYdwY">
+</picture>
 
 <p>
     <a href="https://twitter.com/jry_xx99">
