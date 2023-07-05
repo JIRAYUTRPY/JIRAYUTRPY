@@ -1,5 +1,5 @@
 <h1>Hi I'm JIRAYUT.</h1>
-<img src="https://giphy.com/embed/l4Ep2BJHMEmsHYdwY" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img align="center" src="https://giphy.com/embed/l4Ep2BJHMEmsHYdwY" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen>
 <p>
     <a href="https://twitter.com/jry_xx99">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
@@ -11,12 +11,12 @@
         <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
     </a>
 </p>
-```
+```yaml
 name: Jirayut Roodprayun
 location: Bangkok, Thailand
 job: Freelacer
 education: ["Bachelor's in Automotive Engineering"]
-university: Technology Innovation Institute
+university: King Mongkut's University of Technology North Bangkok
 past_experiences: 
   - ["Mechenical Design Trainee", "Vehicle Extension", "Thailand", "2021"]
   - ["Junior Automation Engineer", "PLC,Control System", "Thailand", "2022"]
