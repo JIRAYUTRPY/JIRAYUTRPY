@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
     </a>
 </p>
+
 ```yaml
 name: Jirayut Roodprayun
 location: Bangkok, Thailand
@@ -24,6 +25,7 @@ past_experiences:
 currently_learning: ["HTML", "CSS", "JavaScript", "React", "Node.JS", "API"]
 hobbies: ["Drink", "Cinema", "Music", "IoT", "Programming"]
 ```
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
