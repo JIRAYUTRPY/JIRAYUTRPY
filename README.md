@@ -11,18 +11,18 @@
         <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
     </a>
 </p>
-```yaml
-Name: Jirayut Roodprayun
-Location: Bangkok, Thailand
-Job: Freelacer
-Education: ["Bachelor's in Automotive Engineering"]
-University: Technology Innovation Institute
-Past experiences: 
+```
+name: Jirayut Roodprayun
+location: Bangkok, Thailand
+job: Freelacer
+education: ["Bachelor's in Automotive Engineering"]
+university: Technology Innovation Institute
+past_experiences: 
   - ["Mechenical Design Trainee", "Vehicle Extension", "Thailand", "2021"]
   - ["Junior Automation Engineer", "PLC,Control System", "Thailand", "2022"]
   - ["Freelance Firmware developer", "Microcntroller,STM32,Arduino,Rasp,Texas Insrutment", "Thailand", "2019-Now"]
-Currently_learning: ["HTML", "CSS", "JavaScript", "React", "Node.JS", "API"]
-Hobbies: ["Drink", "Cinema", "Music", "IoT", "Programming"]
+currently_learning: ["HTML", "CSS", "JavaScript", "React", "Node.JS", "API"]
+hobbies: ["Drink", "Cinema", "Music", "IoT", "Programming"]
 ```
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
