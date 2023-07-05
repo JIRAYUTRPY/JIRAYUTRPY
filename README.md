@@ -1,5 +1,5 @@
 <h1>Hi I'm JIRAYUT.</h1>
-<iframe src="https://giphy.com/embed/l4Ep2BJHMEmsHYdwY" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/l4Ep2BJHMEmsHYdwY" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen>
 <p>
     <a href="https://twitter.com/jry_xx99">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
@@ -21,7 +21,6 @@ Past experiences:
   - ["Mechenical Design Trainee", "Vehicle Extension", "Thailand", "2021"]
   - ["Junior Automation Engineer", "PLC,Control System", "Thailand", "2022"]
   - ["Freelance Firmware developer", "Microcntroller,STM32,Arduino,Rasp,Texas Insrutment", "Thailand", "2019-Now"]
-
 Currently_learning: ["HTML", "CSS", "JavaScript", "React", "Node.JS", "API"]
 Hobbies: ["Drink", "Cinema", "Music", "IoT", "Programming"]
 ```
