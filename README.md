@@ -1,7 +1,8 @@
 <h1>Hi I'm JIRAYUT.</h1>
 
 <picture>
-    <img src="https://giphy.com/embed/l4Ep2BJHMEmsHYdwY">
+    <iframe src="https://giphy.com/embed/l4Ep2BJHMEmsHYdwY" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <p><a href="https://giphy.com/gifs/thailand-thai-film-the-gift-l4Ep2BJHMEmsHYdwY">via GIPHY</a></p>
 </picture>
 
 <p>
