@@ -2,14 +2,13 @@
 
 ![kiss](https://github.com/JIRAYUTRPY/JIRAYUTRPY/assets/123903058/45c05557-e2dc-49c0-b0f6-9256223b27a4)
 
-
-<!--     <a href="https://twitter.com/jry_xx99">
+<p>
+    <a href="https://twitter.com/jry_xx99">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a> 
     <a href="https://www.instagram.com/_jirayut/">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-    </a>  -->
-<p>
+    </a> 
     <a href="https://medium.com/@jirayutroodprayun">
         <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
     </a>
