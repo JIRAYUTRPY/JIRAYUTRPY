@@ -1,6 +1,6 @@
 <h1>Hi I'm JIRAYUT.</h1>
 
-![kiss](https://github.com/JIRAYUTRPY/JIRAYUTRPY/assets/123903058/45c05557-e2dc-49c0-b0f6-9256223b27a4)
+![45737627_1552624031547879_5144103663521759232_o](https://github.com/JIRAYUTRPY/JIRAYUTRPY/assets/123903058/aae0e7cf-a74b-458a-853d-795c9e99620f)
 
 <p>
     <a href="https://twitter.com/jry_xx99">
