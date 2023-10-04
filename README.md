@@ -19,7 +19,7 @@ past_experiences:
   - ["Mechenical Design Trainee", "Vehicle Extension", "Thailand", "2021"]
   - ["Junior Automation Engineer", "PLC,Control System", "Thailand", "2022"]
   - ["Freelance Firmware developer", "Microcntroller,STM32,Arduino,Rasp,Texas Insrutment", "Thailand", "2019-Now"]
-  - ["Full Stack Developer", "Final Project - CourseFlow at TechUp with React, NodeJs, Supabase", "Thailand", "Now"]
+  - ["Full Stack Developer", "Final Project - CourseFlow(https://github.com/weerayuth9516/course-flow) at TechUp with React, NodeJs, Supabase", "Thailand", "Now"]
 currently_learning: ["TypeScript", "NestJS", "WebSocket"]
 hobbies: ["Drink", "Cinema", "Music", "IoT", "Programming"]
 ```
