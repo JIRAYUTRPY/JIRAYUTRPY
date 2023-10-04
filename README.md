@@ -4,9 +4,6 @@
 
 
 <p>
-    <a href="https://www.instagram.com/_jirayut/">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-    </a> 
     <a href="https://medium.com/@jirayutroodprayun">
         <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
     </a>
@@ -22,7 +19,8 @@ past_experiences:
   - ["Mechenical Design Trainee", "Vehicle Extension", "Thailand", "2021"]
   - ["Junior Automation Engineer", "PLC,Control System", "Thailand", "2022"]
   - ["Freelance Firmware developer", "Microcntroller,STM32,Arduino,Rasp,Texas Insrutment", "Thailand", "2019-Now"]
-currently_learning: ["HTML", "CSS", "JavaScript", "React", "Node.JS", "API"]
+  - ["Full Stack Developer", "Final Project - CourseFlow at TechUp with React, NodeJs, Supabase", "Thailand", "Now"]
+currently_learning: ["TypeScript", "NestJS", "WebSocket"]
 hobbies: ["Drink", "Cinema", "Music", "IoT", "Programming"]
 ```
 
