@@ -1,5 +1,4 @@
-<h1>Hi I'm JIRAYUT.</h1>
-<h1>FULL STACK DEVELOPER</h1>
+<h1Where there's booze, you'll find me.</h1>
 <p>
     <a href="https://medium.com/@jirayutroodprayun">
         <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
