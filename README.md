@@ -8,7 +8,7 @@
 ```yaml
 NAME: Jirayut Roodprayun
 LOCATION: Nonthaburi, Thailand
-DEVELOPMENT OPERATIONS ENGINEER
+POSITION: DevOps && System Engineer
 ```
 
 <p align="center">
