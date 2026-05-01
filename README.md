@@ -8,8 +8,7 @@
 ```yaml
 NAME: Jirayut Roodprayun
 LOCATION: Nonthaburi, Thailand
-EDUCATION: ["Bachelor's in Automotive Engineering Technology"]
-UNIVERSITY: King Mongkut's University of Technology North Bangkok
+DEVELOPMENT OPERATIONS ENGINEER
 ```
 
 <p align="center">
